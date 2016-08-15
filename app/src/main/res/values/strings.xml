@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APIExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="watch_warrior_t_v">Watch Warrior T.V</string>
+    <string name="play_list">play_list</string>
+    <string name="warrior_channel">Warrior Channel</string>
+    <string name="play_a_single_video">Play a single video</string>
+    <string name="standalone_player">StandAlone Player</string>
+</resources>
